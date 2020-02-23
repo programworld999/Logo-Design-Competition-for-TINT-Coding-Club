@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60px"
+   height="60px"
+   viewBox="0 0 60 60"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="drawing.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.2666667"
+     inkscape:cx="30"
+     inkscape:cy="20.273438"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <defs
+     id="defs10" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g62"
+       transform="matrix(0.57101703,0,0,0.64001529,-3.9744504,14.156349)">
+      <rect
+         inkscape:transform-center-y="-3.984375"
+         inkscape:transform-center-x="3.5918757"
+         transform="rotate(-25.364137)"
+         y="17.011791"
+         x="11.91381"
+         height="18.28125"
+         width="18.28125"
+         id="rect26" />
+      <rect
+         inkscape:transform-center-y="-4.21679"
+         inkscape:transform-center-x="-5.6992909"
+         transform="rotate(-67.501732)"
+         id="rect28"
+         width="18.28125"
+         height="18.28125"
+         x="-7.3039708"
+         y="32.873119" />
+      <rect
+         y="9.9807463"
+         x="33.076855"
+         height="18.28125"
+         width="18.28125"
+         id="rect30"
+         transform="rotate(-0.61079751)"
+         inkscape:transform-center-x="-6.115302"
+         inkscape:transform-center-y="3.586959" />
+      <rect
+         inkscape:transform-center-y="-6.1129186"
+         inkscape:transform-center-x="-3.5910269"
+         transform="rotate(-90.572674)"
+         id="rect32"
+         width="18.28125"
+         height="18.28125"
+         x="-28.729572"
+         y="17.949163" />
+      <rect
+         inkscape:transform-center-y="3.9843726"
+         inkscape:transform-center-x="-3.5918797"
+         transform="rotate(154.63586)"
+         y="-47.558174"
+         x="-34.920113"
+         height="18.28125"
+         width="18.28125"
+         id="rect26-9" />
+      <rect
+         inkscape:transform-center-y="4.2167916"
+         inkscape:transform-center-x="5.6992936"
+         transform="rotate(112.49827)"
+         id="rect28-6"
+         width="18.28125"
+         height="18.28125"
+         x="1.2878523"
+         y="-46.429321" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.45746676px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:'Futura-Bold, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23643671;"
+       x="27.292919"
+       y="27.791565"
+       id="text66"><tspan
+         sodipodi:role="line"
+         id="tspan64"
+         x="27.292919"
+         y="27.791565"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.45746676px;font-family:Futura-Bold;-inkscape-font-specification:'Futura-Bold, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:0.23643671;">TINT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.95932198px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.14898306"
+       x="12.49837"
+       y="24.746002"
+       id="text78"
+       transform="scale(0.94756992,1.0553311)"><tspan
+         sodipodi:role="line"
+         id="tspan76"
+         x="12.49837"
+         y="24.746002"
+         style="fill:#ffffff;stroke-width:0.14898306">&gt;_</tspan></text>
+  </g>
+</svg>
